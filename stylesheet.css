@@ -2,9 +2,10 @@ body {font-family: raleway;
   background-color: black;
   color: white;
   margin-left: 5%;
-  margin-right: 5%
-  font-size: 16px}
-a {color: yellow}
-a:visited {color: green}
-section {float: left}
-figure {float: right}
+  margin-right: 5%;
+  font-size: 16px;}
+a {color: yellow;}
+a:visited {color: green;}
+section {float: left;}
+figure {float: right;}
+nav {display: block;}
