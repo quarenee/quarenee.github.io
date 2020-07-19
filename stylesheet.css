@@ -4,3 +4,5 @@ body {font-family: raleway;
   margin-left: 5%;
   margin-right: 5%
   font-size: 16px}
+a {color: yellow}
+a:visited {color: green}
