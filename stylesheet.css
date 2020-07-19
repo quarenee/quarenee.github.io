@@ -8,4 +8,4 @@ a {color: yellow;}
 a:visited {color: green;}
 section {float: left;}
 figure {float: right;}
-nav {display: block;}
+nav a {display: block;}
