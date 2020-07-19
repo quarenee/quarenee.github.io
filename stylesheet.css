@@ -8,5 +8,6 @@ a {color: yellow;}
 a:visited {color: green;}
 section {float: left;
   max-width: 50%}
-figure {float: right;}
+figure {float: right;
+  max-width: 30%;}
 nav a {display: block;}
