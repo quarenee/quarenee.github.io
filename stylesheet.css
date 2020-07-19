@@ -6,4 +6,5 @@ body {font-family: raleway;
   font-size: 16px}
 a {color: yellow}
 a:visited {color: green}
+section {float: left}
 figure {float: right}
