@@ -6,8 +6,7 @@ body {font-family: raleway;
   font-size: 16px;}
 a {color: yellow;}
 a:visited {color: green;}
-section {float: left;
-  max-width: 50%}
+section {max-width: 50%}
 figure {float: right;
   max-width: 30%;}
 nav a {display: block;}
