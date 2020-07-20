@@ -9,6 +9,8 @@ a:visited {color: hsl(180, 100%, 50%);}
 section {max-width: 50%}
 figure {float: right;
   max-width: 30%;}
+img {float: left;
+  max-width: 100%;}
 nav a {display: block;}
 article {border: solid;}
 section {border: solid;}
