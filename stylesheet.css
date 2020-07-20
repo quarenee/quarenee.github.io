@@ -19,4 +19,4 @@ nav a {display: block;
 article {overflow: auto;
   width: 100%;
   border-top: solid;
-  border-color: 200 25% 20%;}
+  border-color: hsl(200 25% 20%);}
