@@ -20,4 +20,5 @@ nav a {display: block;
 article {overflow: auto;
   width: 100%;
   border-top: double;
-  border-color: hsl(200 25% 30%);}
+  border-color: hsl(200 25% 30%);
+  margin-top: 30px;}
