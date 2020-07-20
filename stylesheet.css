@@ -5,7 +5,7 @@ body {font-family: raleway;
   margin-right: 5%;
   font-size: 16px;}
 a {color: yellow;}
-a:visited {color: hsl(180, 100%, 50%;}
+a:visited {color: hsl(180, 100%, 50%);}
 section {max-width: 50%}
 figure {float: right;
   max-width: 30%;}
