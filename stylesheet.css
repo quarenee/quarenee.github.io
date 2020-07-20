@@ -14,7 +14,9 @@ figure {float: right;
 img {float: left;
   max-width: 100%;}
 nav a {display: block;
-  line-height: 1.5em;}
+  line-height: 1.6em;
+  bottom-border: 10px;}
 article {overflow: auto;
   width: 100%;
-border-top: solid;}
+  border-top: solid;
+  border-color: 200 25% 20%;}
