@@ -7,15 +7,15 @@ body {border: solid;
 a {color: yellow;}
 a:visited {color: hsl(180, 100%, 50%);}
 section {float: left;
-  max-width: 50%;
-  overflow: auto;
-  width; 100%;}
+  max-width: 50%;}
 figure {float: right;
   max-width: 30%;}
 img {float: left;
   max-width: 100%;}
 nav a {display: block;}
-article {border: solid;}
+article {border: solid;
+  overflow: auto;
+  width: 100%;}
 section {border: solid;}
 ul {border: solid;}
 h2 {border: solid;}
