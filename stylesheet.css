@@ -9,6 +9,6 @@ a:visited {color: hsl(180, 100%, 50%);}
 section {max-width: 50%}
 figure {position: absolute;
   top: 0px;
-  left: 60%;
-  width: 400px;}
+  left: 55%;
+  width: 20%;}
 nav a {display: block;}
