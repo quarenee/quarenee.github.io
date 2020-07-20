@@ -13,13 +13,5 @@ figure {float: right;
 img {float: left;
   max-width: 100%;}
 nav a {display: block;}
-article {border: solid;
-  overflow: auto;
+article {overflow: auto;
   width: 100%;}
-section {border: solid;}
-ul {border: solid;}
-h2 {border: solid;}
-h3 {border: solid;}
-aside {border: solid;}
-figure {border: solid;}
-img {border: solid;}
