@@ -7,6 +7,8 @@ body {border: solid;
 a {color: yellow;}
 a:visited {color: hsl(180, 100%, 50%);}
 section {max-width: 50%}
+figure {float: right;
+  max-width: 30%;}
 img {float: right;
   max-width: 30%;}
 nav a {display: block;}
