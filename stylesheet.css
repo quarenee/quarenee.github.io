@@ -5,14 +5,16 @@ body {font-family: raleway;
   margin-right: 5%;}
 a {color: yellow;}
 a:visited {color: hsl(180, 100%, 50%);}
+a:hover {color: hsl(95, 100%, 50%);
+  text-shadow: 3px 3px 5px #efefef;}
 section {float: left;
   max-width: 50%;}
 figure {float: right;
   max-width: 30%;}
 img {float: left;
   max-width: 100%;}
-nav a {display: block;}
+nav a {display: block;
+  line-height: 1.1em;}
 article {overflow: auto;
   width: 100%;
-border-top: solid;
-border-bottom: solid;}
+border-top: solid;}
