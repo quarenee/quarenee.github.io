@@ -6,6 +6,6 @@ body {font-family: raleway;
 a {color: yellow;}
 a:visited {color: hsl(180, 100%, 50%);}
 section {max-width: 50%}
-figure {float: right;
+img {float: right;
   max-width: 15%;}
 nav a {display: block;}
