@@ -7,6 +7,8 @@ body {font-family: raleway;
 a {color: yellow;}
 a:visited {color: hsl(180, 100%, 50%);}
 section {max-width: 50%}
-figure {float: right;
-  max-width: 30%;}
+figure {position: absoulte;
+  top: 0px;
+  left: 60%;
+  width: 400px;}
 nav a {display: block;}
