@@ -7,8 +7,7 @@ body {font-family: raleway;
 a {color: yellow;}
 a:visited {color: hsl(180, 100%, 50%);}
 section {max-width: 50%}
-figure {position: absolute;
+figure {float: left;
   top: 0px;
-  left: 55%;
   max-width: 15%;}
 nav a {display: block;}
