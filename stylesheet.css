@@ -9,7 +9,7 @@ a:hover {color: hsl(95, 100%, 50%);
   text-shadow: 3px 3px 5px #efefef;}
 section {float: left;
   max-width: 50%;}
-figure {float: right;
+figure {float: left;
   max-width: 30%;}
 img {float: left;
   max-width: 100%;}
@@ -19,4 +19,4 @@ nav a {display: block;
 article {overflow: auto;
   width: 100%;
   border-top: solid;
-  border-color: hsl(200 25% 20%);}
+  border-color: hsl(200 25% 30%);}
