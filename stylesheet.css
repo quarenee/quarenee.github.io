@@ -22,4 +22,5 @@ article {overflow: auto;
   border-top: double;
   border-color: hsl(200 25% 30%);
   margin-top: 30px;}
-h2:first-letter {font-family: tangerine;}
+h2:first-letter {font-family: tangerine;
+  font-size: 42px;}
