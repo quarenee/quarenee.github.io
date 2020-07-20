@@ -10,7 +10,8 @@ a:hover {color: hsl(95, 100%, 50%);
 section {float: left;
   max-width: 50%;}
 figure {float: left;
-  max-width: 30%;}
+  max-width: 30%;
+  margin-top: 15px;}
 img {float: left;
   max-width: 100%;}
 nav a {display: block;
@@ -18,5 +19,5 @@ nav a {display: block;
   bottom-border: 10px;}
 article {overflow: auto;
   width: 100%;
-  border-top: solid;
+  border-top: double;
   border-color: hsl(200 25% 30%);}
