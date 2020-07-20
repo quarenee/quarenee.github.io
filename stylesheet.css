@@ -2,12 +2,10 @@ body {font-family: raleway;
   background-color: black;
   color: white;
   margin-left: 5%;
-  margin-right: 5%;
-  font-size: 16px;}
+  margin-right: 5%;}
 a {color: yellow;}
 a:visited {color: hsl(180, 100%, 50%);}
 section {max-width: 50%}
-figure {float: left;
-  top: 0px;
+figure {float: right;
   max-width: 15%;}
 nav a {display: block;}
