@@ -7,5 +7,5 @@ a {color: yellow;}
 a:visited {color: hsl(180, 100%, 50%);}
 section {max-width: 50%}
 img {float: right;
-  max-width: 15%;}
+  max-width: 30%;}
 nav a {display: block;}
