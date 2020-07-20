@@ -1,5 +1,4 @@
-body {border: solid;
-  font-family: raleway;
+body {font-family: raleway;
   background-color: black;
   color: white;
   margin-left: 5%;
@@ -14,4 +13,6 @@ img {float: left;
   max-width: 100%;}
 nav a {display: block;}
 article {overflow: auto;
-  width: 100%;}
+  width: 100%;
+border-top: solid;
+border-bottom: solid;}
