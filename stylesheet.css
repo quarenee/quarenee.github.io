@@ -11,7 +11,9 @@ section {float: left;
   max-width: 50%;}
 figure {float: left;
   max-width: 30%;
-  margin-top: 30px;}
+  margin-top: 30px;
+  border-radius: 1em 4em 1em 4em / 2em 1em 2em 1em;
+  border: 1px solid yellow;}
 img {float: left;
   max-width: 100%;}
 nav a {display: block;
