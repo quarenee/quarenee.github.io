@@ -13,9 +13,11 @@ figure {float: left;
   max-width: 30%;
   margin-top: 30px;
   border-radius: 1em 4em 1em 4em / 2em 1em 2em 1em;
-  border: 1px solid yellow;}
+  border: 1px solid yellow;
+  z-index: 2;}
 img {float: left;
-  max-width: 100%;}
+  max-width: 100%;
+  z-index: 1;}
 nav a {display: block;
   line-height: 1.6em;
   bottom-border: 10px;}
