@@ -33,10 +33,10 @@ section {float: left;
 	97% {left: -500%;}
 	100% {left: -600%;}
 }
-figure {float: left;
+.figure {float: left;
   max-width: 30%;
   margin-top: 30px;}
-img {float: left;
+.img {float: left;
   max-width: 100%;
   border-radius: 1em 4em 1em 4em / 2em 1em 2em 1em;
   border: 1px solid black;}
