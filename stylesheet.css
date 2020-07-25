@@ -9,6 +9,30 @@ a:hover {color: hsl(95, 100%, 50%);
   text-shadow: 3px 3px 5px #efefef;}
 section {float: left;
   max-width: 50%;}
+#slider {overflow: hidden;
+  max-width: 25%}
+#slider figure {position: relative;
+	width:700%;
+	margin: 0;
+	left: 0;
+	animation: 20s slider infinite;}
+#slider figure img {width: 14.2858%;
+	float: left;}
+@keyframes slider {
+	0% {left: 0;}
+	12% {left: 0;}
+	17% {left: -100%;}
+	29% {left: -100%;}
+	34% {left: -200%;}
+	46% {left: -200%;}
+	51% {left: -300%;}
+	63% {left: -300%;}
+	68% {left: -400%;}
+	80% {left: -400%;}
+	85% {left: -500%;}
+	97% {left: -500%;}
+	100% {left: -600%;}
+}
 figure {float: left;
   max-width: 30%;
   margin-top: 30px;}
