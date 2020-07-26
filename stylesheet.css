@@ -10,7 +10,7 @@ a:hover {color: hsl(95, 100%, 50%);
 section {float: left;
   max-width: 50%;}
 #slider {overflow: hidden;
-  max-width: 25%
+  max-width: 25%;
   margin-top: 30px;
   margin-left: 10px;
   border-radius: 1em 4em 1em 4em / 2em 1em 2em 1em;
